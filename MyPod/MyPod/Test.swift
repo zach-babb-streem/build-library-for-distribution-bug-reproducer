@@ -8,7 +8,7 @@
 
 import Foundation
 
-@frozen public struct TestStruct: Decodable {
+public struct TestStruct: Decodable {
     public let name: String
 }
 
