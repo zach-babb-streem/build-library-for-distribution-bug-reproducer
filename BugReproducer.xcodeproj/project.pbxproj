@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		CA341FB123A453FF00FDA6E9 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA341FB023A453FF00FDA6E9 /* Test.swift */; };
-		CA61369E23A812C200AB7B79 /* MyPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA61369C23A812B600AB7B79 /* MyPod.framework */; };
-		CA61369F23A812C200AB7B79 /* MyPod.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = CA61369C23A812B600AB7B79 /* MyPod.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		CA6136E623AAB7E000AB7B79 /* MyPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA6136E423AAB7DA00AB7B79 /* MyPod.framework */; };
+		CA6136E723AAB7E000AB7B79 /* MyPod.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = CA6136E423AAB7DA00AB7B79 /* MyPod.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		CA74A96B23A3FC63001CBE8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA74A96A23A3FC63001CBE8E /* AppDelegate.swift */; };
 		CA74A96F23A3FC63001CBE8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA74A96E23A3FC63001CBE8E /* ViewController.swift */; };
 		CA74A97223A3FC63001CBE8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA74A97023A3FC63001CBE8E /* Main.storyboard */; };
@@ -24,7 +24,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				CA61369F23A812C200AB7B79 /* MyPod.framework in CopyFiles */,
+				CA6136E723AAB7E000AB7B79 /* MyPod.framework in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -32,7 +32,7 @@
 
 /* Begin PBXFileReference section */
 		CA341FB023A453FF00FDA6E9 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
-		CA61369C23A812B600AB7B79 /* MyPod.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MyPod.framework; sourceTree = "<group>"; };
+		CA6136E423AAB7DA00AB7B79 /* MyPod.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MyPod.framework; sourceTree = "<group>"; };
 		CA74A96723A3FC63001CBE8E /* BugReproducer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BugReproducer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA74A96A23A3FC63001CBE8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CA74A96E23A3FC63001CBE8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,7 +47,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA61369E23A812C200AB7B79 /* MyPod.framework in Frameworks */,
+				CA6136E623AAB7E000AB7B79 /* MyPod.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,7 +59,7 @@
 			children = (
 				CA74A96923A3FC63001CBE8E /* BugReproducer */,
 				CA74A96823A3FC63001CBE8E /* Products */,
-				CA61369C23A812B600AB7B79 /* MyPod.framework */,
+				CA6136E423AAB7DA00AB7B79 /* MyPod.framework */,
 			);
 			sourceTree = "<group>";
 		};

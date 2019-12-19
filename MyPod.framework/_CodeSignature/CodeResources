@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/MyPod.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yJkiycJr1AxxknrIZWPek+CPd1E=
+		BAWMP/SrI/lXZN0uKfmeNXtI6ZI=
 		</data>
 		<key>Modules/MyPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JqJsIcieDBzrz7hsrvE6E6MFL2g=
+		c6FZxHOZNy7cGmpMZw8nJbjogGI=
 		</data>
 		<key>Modules/MyPod.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MyPod.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		yJkiycJr1AxxknrIZWPek+CPd1E=
+		BAWMP/SrI/lXZN0uKfmeNXtI6ZI=
 		</data>
 		<key>Modules/MyPod.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		JqJsIcieDBzrz7hsrvE6E6MFL2g=
+		c6FZxHOZNy7cGmpMZw8nJbjogGI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QUON8ayW+cmOA3QjjjYKL+/CRJvvHk/qyBB7UGYtleY=
+			wD0BOlI+l+9x2lDtlcHxzZq1bkLJlrpjLenETvsQbaM=
 			</data>
 		</dict>
 		<key>Modules/MyPod.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OyyzMf3NI/fptuRst/AkEtkBw9//GhjWMTIPniFGlrM=
+			zSEkP2LGEVywyOgurtY3rPJZorNFG83M3ij3zmNymGg=
 			</data>
 		</dict>
 		<key>Modules/MyPod.swiftmodule/x86_64.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QUON8ayW+cmOA3QjjjYKL+/CRJvvHk/qyBB7UGYtleY=
+			wD0BOlI+l+9x2lDtlcHxzZq1bkLJlrpjLenETvsQbaM=
 			</data>
 		</dict>
 		<key>Modules/MyPod.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OyyzMf3NI/fptuRst/AkEtkBw9//GhjWMTIPniFGlrM=
+			zSEkP2LGEVywyOgurtY3rPJZorNFG83M3ij3zmNymGg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
