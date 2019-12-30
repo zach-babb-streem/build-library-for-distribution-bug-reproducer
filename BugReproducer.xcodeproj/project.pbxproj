@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		CA341FB123A453FF00FDA6E9 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA341FB023A453FF00FDA6E9 /* Test.swift */; };
+		CA5C217C23BAB1C30048B0F3 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5C217B23BAB1C30048B0F3 /* MyTableViewController.swift */; };
+		CA5C217E23BAB25A0048B0F3 /* MyCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5C217D23BAB25A0048B0F3 /* MyCollectionViewController.swift */; };
 		CA6136E623AAB7E000AB7B79 /* MyPod.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA6136E423AAB7DA00AB7B79 /* MyPod.framework */; };
 		CA6136E723AAB7E000AB7B79 /* MyPod.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = CA6136E423AAB7DA00AB7B79 /* MyPod.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		CA74A96B23A3FC63001CBE8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA74A96A23A3FC63001CBE8E /* AppDelegate.swift */; };
@@ -32,6 +34,8 @@
 
 /* Begin PBXFileReference section */
 		CA341FB023A453FF00FDA6E9 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
+		CA5C217B23BAB1C30048B0F3 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
+		CA5C217D23BAB25A0048B0F3 /* MyCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewController.swift; sourceTree = "<group>"; };
 		CA6136E423AAB7DA00AB7B79 /* MyPod.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MyPod.framework; sourceTree = "<group>"; };
 		CA74A96723A3FC63001CBE8E /* BugReproducer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BugReproducer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA74A96A23A3FC63001CBE8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +85,8 @@
 				CA74A97523A3FC65001CBE8E /* LaunchScreen.storyboard */,
 				CA74A97823A3FC65001CBE8E /* Info.plist */,
 				CA341FB023A453FF00FDA6E9 /* Test.swift */,
+				CA5C217B23BAB1C30048B0F3 /* MyTableViewController.swift */,
+				CA5C217D23BAB25A0048B0F3 /* MyCollectionViewController.swift */,
 			);
 			path = BugReproducer;
 			sourceTree = "<group>";
@@ -160,6 +166,8 @@
 				CA341FB123A453FF00FDA6E9 /* Test.swift in Sources */,
 				CA74A96F23A3FC63001CBE8E /* ViewController.swift in Sources */,
 				CA74A96B23A3FC63001CBE8E /* AppDelegate.swift in Sources */,
+				CA5C217E23BAB25A0048B0F3 /* MyCollectionViewController.swift in Sources */,
+				CA5C217C23BAB1C30048B0F3 /* MyTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
