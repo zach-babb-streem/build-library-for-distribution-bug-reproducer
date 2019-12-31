@@ -4,7 +4,7 @@
 import Foundation
 @_exported import MyPod
 import Swift
-@frozen public struct TestStruct : Swift.Decodable {
+public struct TestStruct : Swift.Decodable {
   public let name: Swift.String
   public init(from decoder: Swift.Decoder) throws
 }

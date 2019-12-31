@@ -17,7 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var calllogButton: UIButton!
     
     // This does not work
-    var test: TestStruct?
+    //var test: TestStruct?
     
     // Commenting out the above and uncommenting this does work.
     // var test = Test()
